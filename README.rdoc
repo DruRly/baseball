@@ -1,0 +1,5 @@
+#Run
+ruby run.rb
+
+#Specs
+rspec baseball_spec.rb
